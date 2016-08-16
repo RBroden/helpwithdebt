@@ -1,0 +1,17 @@
+[18-Jul-2016 14:56:21] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/hwd/public_html/wp-content/themes/welfare-child/header.php on line 1
+[18-Jul-2016 14:58:41] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/hwd/public_html/wp-content/themes/welfare-child/header.php on line 1
+[18-Jul-2016 15:03:06] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/hwd/public_html/wp-content/themes/welfare-child/header.php on line 1
+[18-Jul-2016 15:03:09] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/hwd/public_html/wp-content/themes/welfare-child/header.php on line 1
+[18-Jul-2016 15:03:12] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/hwd/public_html/wp-content/themes/welfare-child/header.php on line 1
+[18-Jul-2016 15:03:42] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/hwd/public_html/wp-content/themes/welfare-child/header.php on line 1
+[18-Jul-2016 15:03:44] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/hwd/public_html/wp-content/themes/welfare-child/header.php on line 1
+[18-Jul-2016 15:03:47] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/hwd/public_html/wp-content/themes/welfare-child/header.php on line 1
+[18-Jul-2016 15:03:49] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/hwd/public_html/wp-content/themes/welfare-child/header.php on line 1
+[18-Jul-2016 15:04:00] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/hwd/public_html/wp-content/themes/welfare-child/header.php on line 1
+[18-Jul-2016 15:04:02] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/hwd/public_html/wp-content/themes/welfare-child/header.php on line 1
+[18-Jul-2016 15:04:05] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/hwd/public_html/wp-content/themes/welfare-child/header.php on line 1
+[18-Jul-2016 15:04:07] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/hwd/public_html/wp-content/themes/welfare-child/header.php on line 1
+[18-Jul-2016 15:04:09] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/hwd/public_html/wp-content/themes/welfare-child/header.php on line 1
+[19-Jul-2016 14:35:29] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/hwd/public_html/wp-content/themes/welfare/header.php on line 396
+[14-Aug-2016 15:22:55] PHP Fatal error:  Call to undefined function  cmsms_campaign_heading() in /home/hwd/public_html/wp-content/themes/welfare/cmsms-donations/postType/campaign/horizontal.php on line 41
+[16-Aug-2016 16:47:27] PHP Fatal error:  Call to undefined function  cmsms_campaign_heading() in /home/hwd/public_html/wp-content/themes/welfare/cmsms-donations/postType/campaign/horizontal.php on line 41
